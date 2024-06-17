@@ -1,6 +1,6 @@
 # General-Store-Analysis--Excel
 
-![Vrinda store clean table xlsx - WPS Office 18-06-2024 02_52_54](https://github.com/sujata-mandal13/General-Store-Analysis--Excel/assets/171798508/da07b276-c61f-4989-aaa6-aebfba14a83f)
+![Store clean table with Dashboard - Excel 18-06-2024 03_35_33](https://github.com/sujata-mandal13/General-Store-Analysis--Excel/assets/171798508/af711193-ac77-495a-9d97-5eed9959322d)
 
 
 ## Activity Performed.
