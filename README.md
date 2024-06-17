@@ -9,7 +9,7 @@
 - Data Analysis
 - Creating Interactive Dashboard
 
-- 
+
 ## Sample Questions
 
 Q1. Compare the sales and orders using single chart
