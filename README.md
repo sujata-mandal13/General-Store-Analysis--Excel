@@ -2,6 +2,14 @@
 
 ![Vrinda store clean table xlsx - WPS Office 18-06-2024 02_52_54](https://github.com/sujata-mandal13/General-Store-Analysis--Excel/assets/171798508/da07b276-c61f-4989-aaa6-aebfba14a83f)
 
+
+## Activity Performed.
+- Data Cleaning
+- Data Processing
+- Data Analysis
+- Creating Interactive Dashboard
+
+- 
 ## Sample Questions
 
 Q1. Compare the sales and orders using single chart
