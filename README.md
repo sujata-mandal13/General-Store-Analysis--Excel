@@ -42,3 +42,13 @@ Q8. Highest selling category?
 
 - Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
 
+  ## Analysis & Strategy:
+
+✿Our strong delivery performance and low return/refund rates highlight our commitment to quality and customer satisfaction.
+
+✿The higher sales from male customers and significant purchases from adults suggest a potential to further explore these demographics.
+
+✿The geographical insights show our dominance in key states, with room to expand further in regions with emerging sales.
+
+✿The success across various channels underscores the importance of multi-platform strategies in reaching a broader customer base.
+
