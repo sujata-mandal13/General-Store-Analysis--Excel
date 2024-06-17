@@ -28,7 +28,7 @@ Q7. Which channel is contributing to maximum sales?
 
 Q8. Highest selling category?
 
-## Sample Insights
+## Insights
 
 - Women are more likely to buy compared to men (~65%)
 
